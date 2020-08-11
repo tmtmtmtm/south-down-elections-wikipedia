@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Down_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751715",
+    "start": "1950",
+    "end": "9999"
+  }, {
+    "id": "Q45370635",
+    "start": "1885",
+    "end": "1922"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
